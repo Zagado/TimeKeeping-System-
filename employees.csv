@@ -1,0 +1,51 @@
+﻿Employee_ID,Lname,Fname,SSN,Email,Address,Is_Manager,Dep_Name,Password
+309,Doe,John,700000000,Johnd@marz.com,"1792 Ripple St, Saginaw, MI 48601",Yes,ALL,Pwd1
+333,Well,Max,700000001,MaxWell@marz.com,"1908 Hickory Heights Drive, Baltimore, MD 21202",Yes,FINANCE,Pwd2
+4079,Oy,Zag,700000002,Zago@marz.com,"3825 Cross St, Caro, MI 48723",Yes,MARKETING,Pwd3
+2864,Iam,Mar,700000003,MarIam@marz.com,"919 Cooks Mine Rd, Los Alamos, NM 87544",Yes,OPERATIONS,Pwd4
+1994,Plez ,Mar,700000004,MarPlez@marz.com,"3424 Giraffe Hill Dr, Dallas TX 75212",Yes,R&D,Pwd5
+48389,Kee,Fil,700000005,FilKee@marz.com,"1399 Griffin St, Phoenix, AZ 85003",Yes,FINANCE,Pwd6
+13965,Lyon,Mel,700000006,MelLyon@marz.com,"3808 Williams Mine Rd, Westfield, NJ 07090",Yes,FINANCE,Pwd7
+56587,Jon,Jess,700000007,JessJon@marz.com,"671 New York Ave, Los Angeles, CA 90071",Yes,MARKETING,Pwd8
+64517,Co,Brian,700000008,BrianCo@marz.com,"4613 Colony Street, Deltona, FL 32738",Yes,MARKETING,Pwd9
+84432,Win ,Jon,700000009,JonWin@marz.com,"3792 Oliverio Dr, Liberal KS 67901",Yes,OPERATIONS,Pwd10
+33206,Wil,Greg,700000010,GregWil@marz.com,"3280 Leverton Cove Rd, Springfield, MA 01103",Yes,OPERATIONS,Pwd11
+87640,Zhu,Ian,700000011,JanZhu@marz.com,"317 Alexander Dr, Dayton, ID 83232",Yes,R&D,Pwd12
+53725,Iam,George,700000012,GeorgeIam@marz.com,"582 St Francis Way, West Allis, WI 53227",Yes,R&D,Pwd13
+50970,Lee,Rose,700000013,RoseLee@marz.com,"2429 B Street, Stacy, MN 55079",No,FINANCE,Pwd14
+88023,Cam,Jake,700000014,JakeCam@marz.com,"2006 Wayside Lane, Hayward CA 94500",No,FINANCE,Pwd15
+98090,Wel,Dan,700000015,DanWel@marz.com,"2007 Wayside Lane, Hayward CA 94556",No,FINANCE,Pwd16
+22191,Vi,Michele,700000016,MicheleVi@marz.com,"2008 Wayside Lane, Hayward CA 94589",No,FINANCE,Pwd17
+52986,Kim,Bell,700000017,BellKim@marz.com,"1970 Walkers Ridge Way, Chicago, IL 60601",No,FINANCE,Pwd18
+17960,Ken,Kim,700000018,KimKen@marz.com,"4558 Junior Avenue, Atlanta , GA 30309",No,FINANCE,Pwd19
+46627,King,Deb,700000019,DebKing@marz.com,"4318 Old House Dr, Anthens, LA 71003",No,FINANCE,Pwd20
+77030,Jones,Awa,700000020,AwaJones@marz.com,"3816 George St, Gainesville, FL 32601",No,FINANCE,Pwd21
+32569,All,Arch,700000021,ArchAll@marz.com,"118 Meadow View Dr, Bristol, CT 06010",No,FINANCE,Pwd22
+41471,Stal,Gloria,700000022,GloriaStal@marz.com,"3966 George St, Gainesville, FL 32666",No,MARKETING,Pwd23
+92127,Vinh,Kate,700000023,KateVinh@marz.com,"3956 Ben St, Gainesville, FL 32605",No,MARKETING,Pwd24
+62988,Ven,Lori,700000024,LoriVen@marz.com,"4006 Hawl St, Gainesville, FL 32610",No,MARKETING,Pwd25
+79469,Ben,Cass,700000025,CassBen@marz.com,"766 London St, Gainesville, FL 32621",No,MARKETING,Pwd26
+82559,Jones,Jan,700000026,JanJones@marz.com,"106 Pal St, Gainesville, FL 32650",No,MARKETING,Pwd27
+43204,Jack,Bea,700000027,BeaJack@marz.com,"3966 ChickS St, Gainesville, FL 32630",No,MARKETING,Pwd28
+16946,Alonzo,Mimi,700000028,MimiAlonzo@marz.com,"396 Marie St, Gainesville, FL 32655",No,MARKETING,Pwd29
+80491,Arch,Hattie,700000029,HattieArch@marz.com,"966 George St, Gainesville, FL 32700",No,MARKETING,Pwd30
+89998,App,David,700000030,DavidApp@marz.com,"1450 Cedar St, Imboden, AR 72434",No,OPERATIONS,Pwd31
+68172,Tymo,Eva,700000031,EvaTymo@marz.com,"1451 Cedar St, Imboden, AR 72435",No,OPERATIONS,Pwd32
+19396,Oluwa,Marc,700000032,MarcOlu@marz.com,"1452 Cedar St, Imboden, AR 72436",No,OPERATIONS,Pwd33
+94324,Lyon,Tresor,700000033,TresorLyon@marz.com,"1453 Cedar St, Imboden, AR 72437",No,OPERATIONS,Pwd34
+98510,Lee,Mike,700000034,MikeLee@marz.com,"1454 Cedar St, Imboden, AR 72438",No,OPERATIONS,Pwd35
+76834,Ben,Liam,700000035,LiamBen@marz.com,"1455 Cedar St, Imboden, AR 72439",No,OPERATIONS,Pwd36
+1079,Vinh,Noah,700000036,NoahVin@marz.com,"1456 Cedar St, Imboden, AR 72500",No,OPERATIONS,Pwd37
+31632,Jane,Mari,700000037,MariJan@marz.com,"1457 Cedar St, Imboden, AR 72561",No,OPERATIONS,Pwd38
+46746,Kim,Mari,700000038,MariKim@marz.com,"1458 Cedar St, Imboden, AR 72425",No,OPERATIONS,Pwd39
+10538,Cam,Lucas,700000039,LucasCam@marz.com,"1459 Cedar St, Imboden, AR 72400",No,OPERATIONS,Pwd40
+99184,Jah,Eli,700000040,EliJa@marz.com,"1426 Eastland Ave, Hattiesburg, MS 39401",No,R&D,Pwd41
+19629,Vinh,Kate,700000041,KateVinh2@marz.com,"1427 Eastland Ave, Hattiesburg, MS 39410",No,R&D,Pwd42
+92323,King,Deb,700000042,DebKing8@marz.com,"1428 Eastland Ave, Hattiesburg, MS 39411",No,R&D,Pwd43
+51872,Wel,Dani,700000043,DaniWel5@marz.com,"1429 Eastland Ave, Hattiesburg, MS 39500",No,R&D,Pwd44
+77861,Vi,Michele,700000044,MicheleVi2@marz.com,"1430 Eastland Ave, Hattiesburg, MS 39451",No,R&D,Pwd45
+82072,Stal,Gloria,700000045,GloriaStal3@marz.com,"1431 Eastland Ave, Hattiesburg, MS 39461",No,R&D,Pwd46
+46737,Poss,Kim,700000046,KimPoss@marz.com,"1432 Eastland Ave, Hattiesburg, MS 39449",No,R&D,Pwd47
+87457,Cameron,Jake,700000047,JakeCamer@marz.com,"1433 Eastland Ave, Hattiesburg, MS 39446",No,R&D,Pwd48
+2185,Jones,Jess,700000048,JonesJess@marz.com,"1434 Eastland Ave, Hattiesburg, MS 39450",No,R&D,Pwd49
+63754,Lee,Maria,700000049,MariaLee@marz.com,"1435 Eastland Ave, Hattiesburg, MS 39455",No,R&D,Pwd50
